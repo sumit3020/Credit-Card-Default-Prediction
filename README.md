@@ -67,4 +67,12 @@ In this .ipynb file, we have -
 6. Logistic Regression.
 
 
+📋Conclusions
 
+1. From all baseline model, Random Forest classifier shows highest test accuracy and F1 score and AUC.
+
+2. Baseline model of Random Forest and decision tree shows huge difference in train and test accuracy which shows overfitting.
+
+3. After cross validation and hyperparameter tunning, XG Boost shows highest test accuracy score of 87% and AUC is 0.873.
+
+4. Cross validation and hyperparameter tunning certainly reduces chances of overfitting and also increases performance of model.
