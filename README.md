@@ -64,7 +64,7 @@ In this .ipynb file, we have -
 3. Support Vector Machine
 4. Random Forest Classifier
 5. Decision Tree Classifier
-6. Logistic Regression
+6. Logistic Regression.
 
 
 
