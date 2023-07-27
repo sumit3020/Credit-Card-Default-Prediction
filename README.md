@@ -31,10 +31,12 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 
 💾 Project Files Description
 
+
 This Project includes 1 colab notebook 
 
 Executable Files:
 Credit-Card-Default-Prediction - Includes Exploratory Data Analysis and all algorithms which are used in this project.
 
 Output:
+
 Google Colab - All the outputs are visible in the provided colab notebook.
