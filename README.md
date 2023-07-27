@@ -8,7 +8,7 @@ This project is aimed at predicting the case of customers default payments in Ta
 
 
 
-Data Description
+📋 Data Description
 
 This research employed a binary variable, default payment (Yes = 1, No = 0), as the response variable. This study reviewed the literature and used the following 23 variables as explanatory variables:
 
@@ -47,22 +47,17 @@ Google Colab - All the outputs are visible in the provided colab notebook.
 
 The order of execution of the colab notebook is as follows:
 
-1) Credit_Card_Default_Prediction_Capstone_Project.ipynb
-
-First, click on the open in colab button present on the top center of the notebook.
+ Credit_Card_Default_Prediction_Capstone_Project.ipynb
 
 In this .ipynb file, we have -
-
 • EDA on credit card default prediction.
-
 • Handling class imbalance
-
 • Fitting different models and cross validate them.
 
 
 
 
-Algorithms
+📋 Algorithms
 
 1. XG Boosting
 2. Gradient Boosting
