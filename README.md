@@ -58,3 +58,18 @@ In this .ipynb file, we have -
 • Handling class imbalance
 
 • Fitting different models and cross validate them.
+
+
+
+
+Algorithms
+
+1. XG Boosting
+2. Gradient Boosting
+3. Support Vector Machine
+4. Random Forest Classifier
+5. Decision Tree Classifier
+6. Logistic Regression
+
+
+
