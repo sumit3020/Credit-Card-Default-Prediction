@@ -30,6 +30,7 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 
 
 💾 Project Files Description
+
 This Project includes 1 colab notebook 
 
 Executable Files:
