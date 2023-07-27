@@ -40,3 +40,21 @@ Credit-Card-Default-Prediction - Includes Exploratory Data Analysis and all algo
 Output:
 
 Google Colab - All the outputs are visible in the provided colab notebook.
+
+
+
+📋 Execution Instruction
+
+The order of execution of the colab notebook is as follows:
+
+1) Credit_Card_Default_Prediction_Capstone_Project.ipynb
+
+First, click on the open in colab button present on the top center of the notebook.
+
+In this .ipynb file, we have -
+
+• EDA on credit card default prediction.
+
+• Handling class imbalance
+
+• Fitting different models and cross validate them.
